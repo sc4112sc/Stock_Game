@@ -1,4 +1,4 @@
-# Stock_Game
+# Trading Trainer
 
 股票模擬遊戲
 
